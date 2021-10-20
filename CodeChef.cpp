@@ -31,13 +31,9 @@ int main()
         }
         a=1;
         while(mp[a]==1)
-        {
             ++a;
-        }
         if(a!=m)
-        {
             b=-1;
-        }
         cout<<b<<endl;
     }
     return 0;
